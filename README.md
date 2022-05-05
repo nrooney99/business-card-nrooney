@@ -4,7 +4,7 @@
 
 ### Link
 
-- Live Site URL: [https://business-card-nrooney.vercel.app/](Deploy on Vercel)
+- Live Site URL: [https://business-card-nrooney.vercel.app/] (Deploy on Vercel)
 
 ### Built with
 
