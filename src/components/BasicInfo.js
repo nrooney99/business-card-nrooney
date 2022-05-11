@@ -13,7 +13,7 @@ export default function BasicInfo (){
               <button className='email' onClick={()=>window.location.href="mailto:nrooney@itba.edu.ar"}>
                 <img src={mailLogo} />Email
                 </button>
-              <button className='linkedin' onClick={()=>window.location.href="https://www.linkedin.com/in/nicol%C3%A1s-rooney-803b4815b/"}>
+              <button className='linkedin' onClick={()=>window.location.href="https://www.linkedin.com/in/nicolas-rooney/"}>
               <img src={linkedinLogo} />Linkedin
                 </button>
             </div>
